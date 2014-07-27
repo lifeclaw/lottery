@@ -1,0 +1,4 @@
+lottery
+=======
+
+It's lucky!
